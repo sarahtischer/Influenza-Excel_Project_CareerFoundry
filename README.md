@@ -12,6 +12,13 @@ The Influenza Data Analysis Project is designed to assist a medical staffing age
 * Develop a staffing plan based on analysis results
 * Present findings and recommendations to stakeholders in an accessible format
 
+## Data Sets
+The following data sets were used for the analysis:
+* Influenza deaths by geography (CDC)
+* Population data by geography, time, age, and gender (US Census Bureau)
+* Counts of influenza laboratory test results by state (CDC Fluview)
+* Survey of flu shot rates in children (CDC)
+
 ## Tools
 * Excel: Used for data profiling, data cleaning, and basic statistical analysis in Achievement 1
 * Tableau: Used to create data visualizations and interactive dashboards to present insights effectively
