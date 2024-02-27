@@ -1,5 +1,4 @@
 # Influenza Staffing Project
-<img src="5.png" alt="Instacart logo" style="width:300px;height:160px;">
 
 ## Overview
 The Influenza Data Analysis Project is designed to assist a medical staffing agency in preparing for the influenza season by analyzing historical influenza data and demographic information. The goal is to optimize staffing resources across the United States to ensure adequate patient care during peak influenza periods.
