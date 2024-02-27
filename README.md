@@ -1,4 +1,4 @@
-# Influenza Staffing Project
+# Preparing for Influenza Season Data Analysis Project
 <img src="Hospital_staff.png" alt="Staff image" style="width:300px;height:160px;">
 
 ## Overview
