@@ -24,7 +24,7 @@ The following data sets were used for the analysis:
 * Tableau: Used to create data visualizations and interactive dashboards to present insights effectively
 
 ## Visualizations
-Visualizations generated during the project can be found in the [Tableau Workbook](https://public.tableau.com/app/profile/sarah.tischer/viz/2_9_Storytelling_with_Data_Presentations/Preparingfor2018InfluenzaSeason). This includes spatial, temporal, and statistical visualizations illustrating key findings and insights derived from the analysis. The Tableau storyboard provides a comprehensive overview of the data-driven narrative developed throughout the project.
+Visualizations generated during the project can be found in the [Tableau Workbook](https://public.tableau.com/app/profile/sarahtischer/viz/Preparing_for_Influenza_Season/Preparingfor2018InfluenzaSeason?publish=yes). This includes spatial, temporal, and statistical visualizations illustrating key findings and insights derived from the analysis. The Tableau storyboard provides a comprehensive overview of the data-driven narrative developed throughout the project.
 
 ## Presentation
 An oral presentation of the Tableau Workbook can be found on [YouTube](https://www.youtube.com/watch?v=fSmHvWc_vRg). This presentation serves as the final deliverable of the project and presents findings and recommendations to stakeholders.
